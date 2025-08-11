@@ -53,7 +53,9 @@ Me chamo João Pedro Pascuci De Russi, sou estudante de Desenvolvimento de Softw
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
-<br>
+<br/>
+<br/>
+
 ### 📊 Estatísticas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedropdr&layout=donut&theme=dark)](https://github.com/joaopedropdr)
 
