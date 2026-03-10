@@ -91,6 +91,16 @@ Me chamo João Pedro , sou estudante de Desenvolvimento de Software Multiplatafo
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt=".net" 
+    title=".net"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" 
+/>
+
+
           
 <br/>
 <br/>
